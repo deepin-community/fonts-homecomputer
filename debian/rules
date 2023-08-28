@@ -1,4 +1,11 @@
 #!/usr/bin/make -f
+#export DH_VERBOSE = 1
 
 %:
 	dh $@
+
+override_dh_auto_build:
+	$(MAKE) workbench
+	$(MAKE) sixtyfour
+	vfit debian/amiga.json temp_out/Workbench-VF.ttf
+	vfit debian/sixtyfour.json temp_out/Sixtyfour-VF.ttf

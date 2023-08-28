@@ -1,0 +1,13 @@
+[
+  {
+    "family": "Amiga",
+    "axes": {
+      "wght": 400.0,
+      "wdth": 100.0
+    },
+    "prefFamily": "Amiga",
+    "prefSubfamily": "Regular",
+    "weightOverride": 400,
+    "widthOverride": 5
+  }
+]
