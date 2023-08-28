@@ -1,0 +1,13 @@
+[
+  {
+    "family": "C-64",
+    "axes": {
+      "wght": 400.0,
+      "wdth": 100.0
+    },
+    "prefFamily": "C-64",
+    "prefSubfamily": "Regular",
+    "weightOverride": 400,
+    "widthOverride": 5
+  }
+]

@@ -1,5 +1,11 @@
-template-repository (1.0-1) unstable; urgency=medium
+fonts-homecomputer (1.0-2) unstable; urgency=medium
 
-  * Initial release
+  * Source only upload.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Gürkan Myczko <tar@debian.org>  Mon, 24 Jan 2022 13:25:57 +0100
+
+fonts-homecomputer (1.0-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #926394)
+
+ -- Gürkan Myczko <tar@debian.org>  Thu, 20 Jan 2022 20:08:12 +0100
